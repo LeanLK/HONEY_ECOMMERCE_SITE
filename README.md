@@ -1,7 +1,7 @@
 # Django Ecommerce Website (for bee products )
-This is an ecommerce website created using Django, React, Vue, and PHP. The site was built as part of the Tekwill Junior Ambassadors Web Development Contest and features a working database in PostgreSQL and dynamic templating.
+Acesta este un site de comerț electronic creat folosind Django, React, Vue și PHP. Site-ul a fost construit ca parte a concursului de dezvoltare web Tekwill Junior Ambassadors și dispune de o bază de date funcțională în PostgreSQL și de modele dinamice.
 
-## Technologies Used
+## Technologies Used/Tehnologii utilizate
 * Django
 * React
 * Vue
@@ -10,7 +10,7 @@ This is an ecommerce website created using Django, React, Vue, and PHP. The site
 * HTML
 * CSS
 
-## Features
+## Features/Funcții
 Cross-platform compatibility
 Dynamic templating
 Shopping cart functionality
@@ -18,9 +18,17 @@ Search and filtering capabilities
 Secure checkout process
 E-mail notifier on order
 
+RO----------------
+Compatibilitate între platforme
+Modelare dinamică
+Funcționalitate coș de cumpărături
+Capacități de căutare și filtrare
+Proces de plată securizat
+Notificare prin e-mail la comandă
+
 ## Credits
-This project was created by me and @CartiologyDEV for the Tekwill Junior Ambassadors Web Development Contest. We would also like to thank Tekwill for organizing the competition and providing us with the opportunity to showcase our skills.
+Acest proiect a fost creat de mine, partenerul Link și de @CartiologyDEV pentru concursul Tekwill Junior Ambassadors Web Development Contest. De asemenea, dorim să mulțumim companiei Tekwill pentru organizarea concursului și pentru că ne-a oferit ocazia de a ne prezenta abilitățile.
 
 
 #### Note:
-The site was placed on Heroku, so the wsgi explains itself. However, heroku shut down it's free plan.
+Site-ul a fost plasat pe Heroku, așa că WSGI se explică de la sine. Cu toate acestea, Heroku și-a închis planul gratuit.

@@ -28,13 +28,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BabalauCristian10C/curly-winner.git"
+        "url": "git+https://github.com/LeanLK/HONEY_ECOMMERCE_SITE.git"
     },
     "keywords": [],
     "author": "ChrisXSorin",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/BabalauCristian10C/curly-winner/issues"
+        "url": "https://github.com/LeanLK/HONEY_ECOMMERCE_SITE/issues"
     },
-    "homepage": "https://github.com/BabalauCristian10C/curly-winner#readme"
+    "homepage": "https://github.com/LeanLK/HONEY_ECOMMERCE_SITE/blob/main/README.md"
 }
