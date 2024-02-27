@@ -18,7 +18,6 @@ Search and filtering capabilities
 Secure checkout process
 E-mail notifier on order
 
-RO----------------
 Compatibilitate între platforme
 Modelare dinamică
 Funcționalitate coș de cumpărături
